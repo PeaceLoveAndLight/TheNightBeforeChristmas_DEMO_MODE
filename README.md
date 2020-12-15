@@ -1,6 +1,8 @@
 # TheNightBeforeChristmas_DEMO_MODE
 
 A Tree or string light display for 2020 using FastLED.
+Fits and runs on any 328p and above- 
+(UNO,NANO,PRO-MINI,MEGA,ESP8266 & ESP32)
 
 This version: 
 
