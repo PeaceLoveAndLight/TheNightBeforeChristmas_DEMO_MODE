@@ -25,6 +25,7 @@ Always Learning!
 Note:
 
 Default COLOR_ORDER = RGB - 
+
 PLEASE CHECK YOUR LEDS COLOR ORDER, 
 PATTERNS MAY DISPLAY WEIRD COLORS IF INCORRECT! 
 (compare to pattern list to confirm colors are displaying correct & change to suit your needs).
