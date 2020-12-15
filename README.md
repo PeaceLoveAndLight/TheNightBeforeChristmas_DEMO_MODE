@@ -6,8 +6,9 @@ This version:
 
 Fixes uploading error to ESP boards.
 
-Starts in RGB order - 
-(check the pattern list to confirm colors displaying are correct - change to suit your needs).
+Default COLOR_ORDER = RGB - 
+PLEASE CHECK YOUR LEDS COLOR ORDER, PATTERNS MAY DISPLAY WEIRD COLORS IF INCORRECT! 
+(check pattern list to confirm colors are displaying correct - change to suit your needs).
 
 Has minor tweaks to tidy up the code,
 
